@@ -5,7 +5,7 @@
 <br>
 
 ### Hi there!
-### Welcome to my GitHub Profile
+### Welcome to my GitHub Profile!
 
 I'm currently a **PhD Student in Geodesy and Geomatics Engineering** at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, and **Geospatial Data Processing** to develop innovative solutions in various domains.
 
