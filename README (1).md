@@ -1,60 +1,64 @@
-<img src="https://img.shields.io/badge/PhD-Student-28a745?style=for-the-badge" alt="PhD Student Badge" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=My%20GitHub%20Stats&width=300" style="width:300px;" />
 
-# 👋 Hello! Welcome to Mahtab's GitHub Profile
+<br><br>
 
-I am currently pursuing my **PhD** in **Geodesy and Geomatics Engineering** at the **University of New Brunswick**. My research intersects with **Computer Vision**, **AI**, **Machine Learning/Deep Learning**, and **Geospatial Data**. I’m passionate about using cutting-edge technologies to solve complex problems in various domains, including:
+# Hi there! 👋 Welcome to my GitHub Profile
 
-- 🌍 **3D Modeling**
-- 🤖 **LiDAR Data Processing**
-- 🛰️ **Remote Sensing & Geospatial Analysis**
-- 🚗 **Autonomous Driving**
-- 📸 **Photogrammetry & Point Cloud Processing**
+I'm currently a **PhD Student in Geodesy and Geomatics Engineering** at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, and **Geospatial Data Processing** to develop innovative solutions in various domains.
 
----
+### 🚀 Research Interests
 
-### 🔧 **Skills & Technologies**
+I focus on:
+- **3D Modeling** and **AI-driven Image Processing**
+- **Point Cloud** and **LiDAR Data Processing**
+- **3D Computer Vision** and **Photogrammetry**
+- **Remote Sensing** and **Geospatial Analysis**
+- Applications in **Robotics** and **Autonomous Driving**
 
-| **Languages**  | Python, MATLAB, C++   |
-|----------------|------------------------|
-| **Frameworks** | PyTorch, TensorFlow    |
-| **Tools**      | OpenCV, Docker, Git    |
-| **GIS Tools**  | QGIS, ArcGIS           |
-| **Other**      | LaTeX, Agisoft Metashape|
+### 💼 Skills & Tools
 
----
+- **Languages**: Python, MATLAB, C++
+- **Frameworks**: PyTorch, TensorFlow, OpenCV
+- **Technologies**: LiDAR, Point Cloud Processing, Remote Sensing, GIS
+- **Software**: QGIS, ArcGIS, Agisoft Metashape
+- **Other Tools**: Git, Docker, LaTeX
 
-### 💼 **Current Projects**
+<br>
 
-I am currently focused on:
-- 📊 Building machine learning models for **AI-driven 3D Modeling** and **LiDAR** processing.
-- 🛠️ Implementing **Deep Learning** techniques for **Remote Sensing** and **Geospatial** data analysis.
+### 📈 GitHub Stats
 
----
+![Total Commits](https://badges.pufler.dev/commits/all/Abbsalehi)  
+![Profile Views](https://komarev.com/ghpvc/?username=Abbsalehi&color=blue)
 
-### 🌱 **Currently Learning**
+<br>
 
-- Multi-modal **Data Fusion**.
-- Advanced **3D Computer Vision**.
-- Exploring new techniques in **Deep Learning** for large geospatial datasets.
+### 🌱 Currently Learning
 
----
+I'm expanding my expertise in:
+- Advanced **3D Computer Vision** techniques
+- **Deep Learning** applications for large geospatial datasets
+- **Multi-modal Data Fusion** and integration
 
-### 📊 **GitHub Stats**
+<br>
 
-<div align="center">
+### 🤝 Looking to Collaborate On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=28a745&text_color=28a745&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=My%20GitHub%20Stats&progress_color=28a745)
+- **3D Modeling** and **Image Processing** projects
+- **Geospatial Data Processing** and **Remote Sensing** applications
+- Open-source contributions in **AI** and **Autonomous Driving**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abbsalehi&layout=compact&theme=light&hide_border=true)
+<br>
 
-</div>
-
----
-
-### 🤝 **Let's Connect!**
+### 📫 Connect with Me
 
 - **LinkedIn**: [Abbsalehi](https://www.linkedin.com/in/abbsalehi/)
 
+<br>
+
+### ⚡ Fun Fact
+
+> Did you know? My passion for computer vision started with an interest in **photography** and **mapping technology**! This unique blend of art and science continues to inspire my work in creating meaningful visual insights from complex data.
+
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, and let’s collaborate on exciting projects! 😄
+Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
