@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=28a745&text_color=28a745&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=My%20GitHub%20Stats&width=300" style="width:300px;" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=28a745&text_color=28a745&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&theme=dark&width=300" style="width:300px;" />
+
 
 <br><br>
 ## Hi there! 👋 Welcome to my GitHub Profile
