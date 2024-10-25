@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Abbsalehi/Readme/blob/main/banner_1.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=000&text_color=000&bg_color=fff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=This%20is%20my%20GitHub%20stats&theme=tokyonight" style="width:300px;" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=000&text_color=000&bg_color=fff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=This%20is%20my%20GitHub%20stats&theme=vision-friendly-dark" style="width:300px;" />
 
 <br>
 
