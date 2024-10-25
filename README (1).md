@@ -1,23 +1,54 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile
 
-> I am currently a PhD Student in the Department of Geodesy and Geomatics Engineering at the University of New Brunswick. My research interests are computer vision, image processing, ML/DL, AI, and their applications in different fields, such as 3D Modeling, AI-driven Image and Point Cloud Processing, LiDAR Processing, Geospatial Data Processing, 3D Computer Vision, Photogrammetry, Remote Sensing, robotics, autonomous driving, etc.
+I'm currently a **PhD Student in Geodesy and Geomatics Engineering** at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, and **Geospatial Data Processing** to develop innovative solutions in various domains.
 
-![Total Commits](https://badges.pufler.dev/commits/yearly/Abbsalehi)
+### 🚀 Research Interests
 
-<!--
-**Abbsalehi/Abbsalehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on:
+- **3D Modeling** and **AI-driven Image Processing**
+- **Point Cloud** and **LiDAR Data Processing**
+- **3D Computer Vision** and **Photogrammetry**
+- **Remote Sensing** and **Geospatial Analysis**
+- Applications in **Robotics** and **Autonomous Driving**
 
-Here are some ideas to get you started:
+### 💼 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, MATLAB, C++
+- **Frameworks**: PyTorch, TensorFlow, OpenCV
+- **Technologies**: LiDAR, Point Cloud Processing, Remote Sensing, GIS
+- **Software**: QGIS, ArcGIS, Agisoft Metashape
+- **Other Tools**: Git, Docker, LaTeX
 
+### 📈 GitHub Stats
+
+![Total Commits](https://badges.pufler.dev/commits/all/Abbsalehi)  
+![Profile Views](https://komarev.com/ghpvc/?username=Abbsalehi&color=blue)
+
+### 🌱 Currently Learning
+
+I'm expanding my expertise in:
+- Advanced **3D Computer Vision** techniques
+- **Deep Learning** applications for large geospatial datasets
+- **Multi-modal Data Fusion** and integration
+
+### 🤝 Looking to Collaborate On
+
+- **3D Modeling** and **Image Processing** projects
+- **Geospatial Data Processing** and **Remote Sensing** applications
+- Open-source contributions in **AI** and **Autonomous Driving**
+
+### 📫 Connect with Me
+
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: youremail@example.com
+
+### ⚡ Fun Fact
+
+> Did you know? My passion for computer vision started with an interest in **photography** and **mapping technology**! This unique blend of art and science continues to inspire my work in creating meaningful visual insights from complex data.
+
+---
+
+Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
