@@ -55,10 +55,6 @@ I'm expanding my expertise in:
 
 <br>
 
-### ⚡ Fun Fact
-
-> Did you know? My passion for computer vision started with an interest in **photography** and **mapping technology**! This unique blend of art and science continues to inspire my work in creating meaningful visual insights from complex data.
-
 ---
 
 Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
