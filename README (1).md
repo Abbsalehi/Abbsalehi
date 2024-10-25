@@ -1,10 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=40&hide_border=true&custom_title=My%20GitHub%20Stats&width=300" style="width:400px;" />
 
-
-
-
-
-
+<br><br>
 ## Hi there! 👋 Welcome to my GitHub Profile
 
 I'm currently a **PhD Student in Geodesy and Geomatics Engineering** at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, and **Geospatial Data Processing** to develop innovative solutions in various domains.
