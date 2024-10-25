@@ -1,7 +1,6 @@
-<div style="position: absolute; top: 0; left: 0;">
+<div style="text-align: right;">
   <img src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&show_icons=true&icon_color=5ad55d&text_color=5ad55d&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true&hide=prs,issues&line_height=25&hide_border=true&custom_title=This%20is%20my%20GitHub%20stats&theme=radical" style="width: 500px;" />
 </div>
-
 
 <br>
 
