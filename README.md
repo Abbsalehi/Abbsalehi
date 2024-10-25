@@ -29,13 +29,6 @@ I focus on:
 
 <br>
 
-### 📈 GitHub Stats
-<! -- ![Total Commits](https://badges.pufler.dev/commits/all/Abbsalehi)  -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abbsalehi&color=blue)
-
-<br>
-
 ### 🌱 Currently Learning
 
 I'm expanding my expertise in:
