@@ -41,7 +41,7 @@ I'm expanding my expertise in:
 ### 🤝 Looking to Collaborate On
 
 - **3D Modeling** and **Image Processing** projects
-- **Geospatial Data Processing** and **Remote Sensing** applications
+- **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
 - Open-source contributions in **AI** and **Autonomous Driving**
 
 <br>
