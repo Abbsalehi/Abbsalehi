@@ -30,8 +30,8 @@ I focus on:
 <br>
 
 ### 📈 GitHub Stats
+<! -- ![Total Commits](https://badges.pufler.dev/commits/all/Abbsalehi)  -->
 
-![Total Commits](https://badges.pufler.dev/commits/all/Abbsalehi)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Abbsalehi&color=blue)
 
 <br>
