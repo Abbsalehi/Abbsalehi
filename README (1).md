@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-> I am currently a PhD Student in the Department of Geodesy and Geomatics Engineering at the University of New Brunswick. My research interests are computer vision, image processing, ML/DL, AI and their applications in different applications such as 3D Modeling, AI-driven Image, Point Cloud, LiDAR Processing, Geospatial Data Processing, 3D Computer Vision, Photogrammetry, Remote Sensing, robotics, autonomous driving, etc. 
+> I am currently a PhD Student in the Department of Geodesy and Geomatics Engineering at the University of New Brunswick. My research interests are computer vision, image processing, ML/DL, AI, and their applications in different fields, such as 3D Modeling, AI-driven Image and Point Cloud Processing, LiDAR Processing, Geospatial Data Processing, 3D Computer Vision, Photogrammetry, Remote Sensing, robotics, autonomous driving, etc.
+
+![Total Commits](https://badges.pufler.dev/commits/yearly/Abbsalehi)
 
 <!--
 **Abbsalehi/Abbsalehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
