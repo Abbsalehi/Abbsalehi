@@ -2,6 +2,9 @@
 
 <br>
 
+<img align="left" src="https://github.com/Abbsalehi/Readme/blob/main/banner_1.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
+
+<br>
 ### Hi there!
 ### Welcome to my GitHub Profile!
 
