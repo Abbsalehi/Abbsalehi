@@ -41,9 +41,7 @@ I'm expanding my expertise in:
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: youremail@example.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/abbsalehi/)
 
 ### ⚡ Fun Fact
 
