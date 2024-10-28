@@ -1,7 +1,5 @@
 <img align="center" src="https://github.com/Abbsalehi/Readme/blob/main/banner_1.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
 
-<div align="center">
-
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Abbsalehi&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Abbsalehi&hide_border=true" />
 
