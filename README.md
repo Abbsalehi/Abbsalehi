@@ -24,7 +24,7 @@ I focus on:
 
 ### 💼 Skills & Tools
 
-- **Languages**: Python, MATLAB, C++
+- **Languages**: Python, MATLAB
 - **Frameworks**: PyTorch, TensorFlow, OpenCV
 - **Technologies**: LiDAR, Point Cloud Processing, Remote Sensing, GIS
 - **Software**: QGIS, ArcGIS, Agisoft Metashape
