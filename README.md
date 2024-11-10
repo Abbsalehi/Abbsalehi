@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/Abbsalehi/Readme/blob/main/banner_1.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
----
+
 <div align="left">
 
 [![GitHub Badge](https://img.shields.io/github/followers/Abbsalehi?style=social)](https://github.com/Abbsalehi?tab=followers)
