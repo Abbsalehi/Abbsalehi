@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/Abbsalehi/Readme/blob/main/banner_1.png" style="width:100%; margin-bottom:20px;" alt="Banner" />
 
-<div align="center">
+<div align="left">
 
 [![GitHub Badge](https://img.shields.io/github/followers/Abbsalehi?style=social)](https://github.com/Abbsalehi?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en)
