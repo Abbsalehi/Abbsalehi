@@ -19,7 +19,7 @@
 ### Welcome to my GitHub Profile!
 
 I'm currently a **PhD Student in Geodesy and Geomatics Engineering** in the Department of Geodesy and Geomatics Engineering at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
----
+
 ### 🚀 Research Interests
 
 I focus on:
@@ -47,7 +47,7 @@ I'm expanding my expertise in:
 - **Multi-modal Data Fusion** and integration
 
 <br>
----
+
 ### 🤝 Looking to Collaborate On
 
 - **3D Modeling** and **Image Processing** projects
@@ -61,7 +61,5 @@ I'm expanding my expertise in:
 - **LinkedIn**: [Abbsalehi](https://www.linkedin.com/in/abbsalehi/)
 
 <br>
-
----
 
 Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
