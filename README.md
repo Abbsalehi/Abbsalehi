@@ -23,9 +23,10 @@ I'm currently a **PhD candidate in Geodesy and Geomatics Engineering** in the De
 ### 🚀 Research Interests
 
 I focus on:
+
+- **3D Computer Vision** and **Photogrammetry**
 - **3D Modeling** and **AI-driven Image Processing**
 - **Point Cloud** and **LiDAR Data Processing**
-- **3D Computer Vision** and **Photogrammetry**
 - **Remote Sensing** and **Geospatial Analysis**
 - Applications in **Robotics** and **Autonomous Driving**
 
