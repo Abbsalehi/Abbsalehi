@@ -18,7 +18,7 @@
 ### Hi there!
 ### Welcome to my GitHub Profile!
 
-I'm currently a **PhD Student in Geodesy and Geomatics Engineering** in the Department of Geodesy and Geomatics Engineering at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
+I'm currently a **PhD candidate in Geodesy and Geomatics Engineering** in the Department of Geodesy and Geomatics Engineering at the **University of New Brunswick**. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
 
 ### 🚀 Research Interests
 
