@@ -34,8 +34,7 @@ I focus on:
 
 - **Languages**: Python, MATLAB
 - **Frameworks**: PyTorch, TensorFlow, OpenCV
-- **Technologies**: LiDAR, Point Cloud Processing, Remote Sensing, GIS
-- **Software**: QGIS, ArcGIS, Agisoft Metashape
+- **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
 
 <br>
@@ -49,7 +48,7 @@ I'm expanding my expertise in:
 
 <br>
 
-### 🤝 Looking to Collaborate On
+### 🤝 Looking to Collaborate on
 
 - **3D Modeling** and **Image Processing** projects
 - **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
