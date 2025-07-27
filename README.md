@@ -32,7 +32,7 @@ I focus on:
 
 ### 💼 Skills & Tools
 
-- **Languages**: Python, MATLAB
+- **Languages**: Python, MATLAB, C++
 - **Frameworks**: PyTorch, TensorFlow, OpenCV
 - **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
