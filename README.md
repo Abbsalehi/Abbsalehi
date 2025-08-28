@@ -18,7 +18,7 @@
 ### Hi there!
 ### Welcome to my GitHub Profile!
 
-I'm currently a **Geospatial AI and Computer Vision researcher** in the Advanced Spatial Intelligence Lab at the Department of Geodesy and Geomatics Engineering. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
+I'm currently a **Geospatial AI and Computer Vision researcher** in the Advanced Spatial Intelligence Lab at the Department of Geodesy and Geomatics Engineering. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR/Point cloud processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
 
 ### 🚀 Research Interests
 
