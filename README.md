@@ -20,7 +20,7 @@
 
 I'm currently a **Geospatial AI and Computer Vision researcher** in the Advanced Spatial Intelligence Lab at the Department of Geodesy and Geomatics Engineering. My research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR/Point cloud processing**, **Photogrammetry**, and **Remote Sensing** to develop innovative solutions in various domains.
 
-### 🚀 Research Interests
+<!-- ### 🚀 Research Interests
 
 I focus on:
 
@@ -29,7 +29,26 @@ I focus on:
 - **Point Cloud** and **LiDAR Data Processing**
 - **Remote Sensing** and **Geospatial Analysis**
 - Applications in **Robotics** and **Autonomous Driving**
-![Research Image](Robot_1.png)
+![Research Image](Robot_1.png) -->
+
+### 🚀 Research Interests
+
+<table>
+<tr>
+  <td>
+    <ul>
+      <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
+      <li><b>3D Modeling</b> and <b>AI-driven Image Processing</b></li>
+      <li><b>Point Cloud</b> and <b>LiDAR Data Processing</b></li>
+      <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
+      <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
+    </ul>
+  </td>
+  <td>
+    <img src="images/research.png" alt="Research Illustration" width="300"/>
+  </td>
+</tr>
+</table>
 
 ### 💼 Skills & Tools
 
