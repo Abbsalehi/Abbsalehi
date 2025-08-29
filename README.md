@@ -29,6 +29,7 @@ I focus on:
 - **Point Cloud** and **LiDAR Data Processing**
 - **Remote Sensing** and **Geospatial Analysis**
 - Applications in **Robotics** and **Autonomous Driving**
+![Research Image](images/research.png)
 
 ### 💼 Skills & Tools
 
