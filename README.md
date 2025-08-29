@@ -34,7 +34,7 @@ I focus on:
 ### 🚀 Research Interests
 
 I focus on:
- <img src="Robot_1.png" align="right" width="700" alt="Research Illustration" />
+ <!-- <img src="Robot_1.png" align="right" width="700" alt="Research Illustration" /> -->
 <ul>
   <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
   <li><b>3D Modeling</b> and <b>AI-driven Image Processing</b></li>
