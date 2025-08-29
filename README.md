@@ -43,7 +43,7 @@ I focus on:
   <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
 </ul>
 
-<img src="Robot_1.png" align="right" width="300" alt="Research Illustration" />
+<img src="Robot_1.png" align="right" width="700" alt="Research Illustration" />
 
 
 ### 💼 Skills & Tools
