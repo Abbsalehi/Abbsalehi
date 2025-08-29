@@ -33,22 +33,18 @@ I focus on:
 
 ### 🚀 Research Interests
 
-<table>
-<tr>
-  <td>
-    <ul>
-      <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
-      <li><b>3D Modeling</b> and <b>AI-driven Image Processing</b></li>
-      <li><b>Point Cloud</b> and <b>LiDAR Data Processing</b></li>
-      <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
-      <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
-    </ul>
-  </td>
-  <td>
-    <img src="images/research.png" alt="Research Illustration" width="300"/>
-  </td>
-</tr>
-</table>
+I focus on:
+
+<ul>
+  <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
+  <li><b>3D Modeling</b> and <b>AI-driven Image Processing</b></li>
+  <li><b>Point Cloud</b> and <b>LiDAR Data Processing</b></li>
+  <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
+  <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
+</ul>
+
+<img src="images/research.png" align="right" width="300" alt="Research Illustration" />
+
 
 ### 💼 Skills & Tools
 
