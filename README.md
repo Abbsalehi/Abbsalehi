@@ -41,9 +41,10 @@ I focus on:
   <li><b>Point Cloud</b> and <b>LiDAR Data Processing</b></li>
   <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
   <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
+  <img src="Robot_1.png" align="right" width="700" alt="Research Illustration" />
 </ul>
 
-<img src="Robot_1.png" align="right" width="700" alt="Research Illustration" />
+
 
 
 ### 💼 Skills & Tools
