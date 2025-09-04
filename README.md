@@ -51,8 +51,6 @@ I focus on:
 - **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
 
-<br>
-
 ### 🌱 Currently Learning
 
 I'm expanding my expertise in:
