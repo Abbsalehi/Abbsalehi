@@ -50,6 +50,7 @@ I'm expanding my expertise in:
 - Advanced **3D Computer Vision** techniques
 - **Deep Learning** applications for large geospatial datasets
 - **Multi-modal Data Fusion** and integration
+- Robotics and Autonomous Driving
 
 ### 🤝 Looking to Collaborate on
 
