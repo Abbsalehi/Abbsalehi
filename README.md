@@ -12,8 +12,6 @@
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abbsalehi&hide_border=true" /> -->
 
 </div>
-<br>
-
 
 ### Hi there!
 ### Welcome to my GitHub Profile!
@@ -41,7 +39,6 @@ I focus on:
   <li><b>Point Cloud</b> and <b>LiDAR Data Processing</b></li>
   <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
   <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
-
 </ul>
 
 ### 💼 Skills & Tools
@@ -58,20 +55,14 @@ I'm expanding my expertise in:
 - **Deep Learning** applications for large geospatial datasets
 - **Multi-modal Data Fusion** and integration
 
-<br>
-
 ### 🤝 Looking to Collaborate on
 
 - **3D Modeling** and **Image Processing** projects
 - **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
 - Open-source contributions in **AI** and **Autonomous Driving**
 
-<br>
-
 ### 📫 Connect with Me
 
 - **LinkedIn**: [Abbsalehi](https://www.linkedin.com/in/abbsalehi/)
-
-<br>
 
 Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
