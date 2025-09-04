@@ -28,8 +28,6 @@ As a **Geospatial AI and Computer Vision researcher** in the Advanced Spatial In
 ![Research Image](Robot_1.png) -->
 
 ### 🚀 Research Interests
-
-I focus on:
  <!-- <img src="Robot_1.png" align="right" width="700" alt="Research Illustration" /> -->
 <ul>
   <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
