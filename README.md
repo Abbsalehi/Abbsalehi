@@ -44,9 +44,6 @@ I focus on:
 
 </ul>
 
- 
-
-
 ### 💼 Skills & Tools
 
 - **Languages**: Python, MATLAB, C++
