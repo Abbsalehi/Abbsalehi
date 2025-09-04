@@ -20,8 +20,6 @@ I'm currently a **Geospatial AI and Computer Vision researcher** in the Advanced
 
 <!-- ### 🚀 Research Interests
 
-I focus on:
-
 - **3D Computer Vision** and **Photogrammetry**
 - **3D Modeling** and **AI-driven Image Processing**
 - **Point Cloud** and **LiDAR Data Processing**
