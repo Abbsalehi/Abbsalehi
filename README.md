@@ -44,7 +44,7 @@ As a **Geospatial AI and Computer Vision researcher** in the Advanced Spatial In
 - **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
 
-### 🌱 Currently Learning
+### 🌱 Current Learning
 
 I'm expanding my expertise in:
 - Advanced **3D Computer Vision** techniques
