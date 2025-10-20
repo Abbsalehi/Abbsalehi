@@ -22,7 +22,7 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
 
 - **3D Computer Vision** and **Photogrammetry**
 - **3D Modeling** and **AI-driven Image Processing**
-- **Point Cloud** and **LiDAR Data Processing**
+- **Point Cloud** and **LiDAR Mapping**
 - **Remote Sensing** and **Geospatial Analysis**
 - Applications in **Robotics** and **Autonomous Driving**
 ![Research Image](Robot_1.png) -->
