@@ -52,7 +52,7 @@ I'm expanding my expertise in:
 - **Multi-modal Data Fusion** and integration
 - Robotics and Autonomous Driving
 
-### 🤝 Looking to Collaborate on
+### 🤝 Looking to collaborate on
 
 - **3D Modeling** and **Image Processing** projects
 - **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
