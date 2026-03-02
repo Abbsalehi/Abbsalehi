@@ -57,9 +57,3 @@ I'm expanding my expertise in:
 - **3D Modeling** and **Image Processing** projects
 - **Geospatial Data Processing**, **Photogrammetry**, and **Remote Sensing** applications
 - Open-source contributions in **AI** and **Autonomous Driving**
-
-### 📫 Connect with Me
-
-- **LinkedIn**: [Abbsalehi](https://www.linkedin.com/in/abbsalehi/)
-
-Thank you for stopping by! I'm always open to new connections and ideas. Let's make an impact together!
