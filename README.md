@@ -13,7 +13,6 @@
 
 </div>
 
-### Hi there!
 ### Welcome to my GitHub Profile!
 
 As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR Mapping**, **Photogrammetry**, and **Remote Sensing**.
