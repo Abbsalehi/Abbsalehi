@@ -38,7 +38,7 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
 
 ### 💼 Skills & Tools
 
-- ** Programming Languages**: Python, MATLAB, C++
+- **Programming Languages**: Python, MATLAB, C++
 - **Frameworks**: PyTorch, TensorFlow, OpenCV
 - **Technologies**: LiDAR, Point Cloud Processing, Photogrammetry, Remote Sensing, GIS
 - **Other Tools**: Git, Docker, LaTeX
