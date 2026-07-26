@@ -17,9 +17,9 @@
 
 As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR Mapping**, **Photogrammetry**, and **Remote Sensing**.
 
-### 🚀 Research Interests
+<img align="right" src="interests.png" width="300" alt="Research Illustration" style="margin-left: 20px;" />
 
-<img align="right" src="interests.png" width="300" alt="Research Illustration" />
+### 🚀 Research Interests
 
 * **3D Computer Vision** and **Photogrammetry**
 * **3D urban Modeling** and **AI-driven Image Processing**
