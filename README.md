@@ -15,7 +15,7 @@
 
 ### Welcome to my GitHub profile!
 
-As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR Mapping**, **Photogrammetry**, and **Remote Sensing**.
+As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Remote Sensing**, **Geospatial Data Processing**, **LiDAR Mapping**, and **Photogrammetry**.
 
 <img align="right" src="images/interests.png" width="300" alt="Research Illustration" style="margin-left: 30px;" />
 
