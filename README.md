@@ -17,25 +17,17 @@
 
 As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR Mapping**, **Photogrammetry**, and **Remote Sensing**.
 
-<!-- Borderless Table Layout -->
-<table border="0">
-  <tr style="border: none;">
-    <td width="60%" valign="top" style="border: none;">
-      <h3>🚀 Research Interests</h3>
-      <ul>
-        <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
-        <li><b>3D urban Modeling</b> and <b>AI-driven Image Processing</b></li>
-        <li><b>Point Cloud</b> and <b>LiDAR Mapping</b></li>
-        <li><b>Remote Sensing</b> and <b>Geospatial Analysis</b></li>
-        <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" style="border: none;">
-      <!-- Your Image Goes Here -->
-      <img src="interests.png" alt="Research Illustration" style="max-width:100%;" />
-    </td>
-  </tr>
-</table>
+### 🚀 Research Interests
+
+<img align="right" src="Robot_1.png" width="300" alt="Research Illustration" />
+
+* **3D Computer Vision** and **Photogrammetry**
+* **3D urban Modeling** and **AI-driven Image Processing**
+* **Point Cloud** and **LiDAR Mapping**
+* **Remote Sensing** and **Geospatial Analysis**
+* Applications in **Robotics** and **Autonomous Driving**
+
+<br clear="right" />
 
 ### 💼 Skills & Tools
 
