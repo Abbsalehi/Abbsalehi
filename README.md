@@ -32,7 +32,7 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
     </td>
     <td width="40%" valign="top">
       <!-- Your Image Goes Here -->
-      <img src="Robot_1.png" alt="Research Illustration" style="max-width:100%;" />
+      <img src="interests.png" alt="Research Illustration" style="max-width:100%;" />
     </td>
   </tr>
 </table>
