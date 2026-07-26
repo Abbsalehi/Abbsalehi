@@ -17,10 +17,10 @@
 
 As a **Geospatial AI and Computer Vision researcher**, my research dives into the intersection of **Computer Vision**, **Machine Learning/Deep Learning**, **Geospatial Data Processing**, **LiDAR Mapping**, **Photogrammetry**, and **Remote Sensing**.
 
-<!-- New Section with Image and Text Side-by-Side -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<!-- Borderless Table Layout -->
+<table border="0">
+  <tr style="border: none;">
+    <td width="60%" valign="top" style="border: none;">
       <h3>🚀 Research Interests</h3>
       <ul>
         <li><b>3D Computer Vision</b> and <b>Photogrammetry</b></li>
@@ -30,7 +30,7 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
         <li>Applications in <b>Robotics</b> and <b>Autonomous Driving</b></li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="40%" valign="top" style="border: none;">
       <!-- Your Image Goes Here -->
       <img src="interests.png" alt="Research Illustration" style="max-width:100%;" />
     </td>
