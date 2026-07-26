@@ -21,10 +21,10 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
 
 ### 🚀 Research Interests
 
+* **Remote Sensing** and **Geospatial Analysis**
 * **3D Computer Vision** and **Photogrammetry**
 * **3D urban Modeling** and **AI-driven Image Processing**
 * **Point Cloud** and **LiDAR Mapping**
-* **Remote Sensing** and **Geospatial Analysis**
 * Applications in **Robotics** and **Autonomous Driving**
 
 <br clear="right" />
