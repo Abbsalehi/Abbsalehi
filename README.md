@@ -19,7 +19,7 @@ As a **Geospatial AI and Computer Vision researcher**, my research dives into th
 
 ### 🚀 Research Interests
 
-<img align="right" src="Robot_1.png" width="300" alt="Research Illustration" />
+<img align="right" src="interests.png" width="300" alt="Research Illustration" />
 
 * **3D Computer Vision** and **Photogrammetry**
 * **3D urban Modeling** and **AI-driven Image Processing**
