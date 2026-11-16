@@ -18,7 +18,7 @@
 
 ## 🔬 About
 
-I'm a researcher working at the intersection of **remote sensing**, **photogrammetry**, **computer vision**, and **machine learning**. My work focuses on turning LiDAR, point clouds, and imagery into accurate 3D models of urban environments, with applications in robotics and autonomous driving.
+I'm a researcher working at the intersection of **remote sensing**, **photogrammetry**, **computer vision**, and **machine learning**. My work combines multi-modal geospatial data (**satellite imagery**, **UAV photogrammetry**, and **airborne and mobile LiDAR**) with deep learning to build accurate 3D models of urban environments. The same methods support applications in **autonomous driving**, **robotics**, **precision agriculture**, **flood and disaster response**, and **coastal and marine mapping**.
 
 <p align="center">
   <img src="images/concept.png" width="100%" alt="From sensors to 3D understanding: satellite, UAV and LiDAR data fused and processed by deep learning for urban modeling, autonomous driving and robotics" />
