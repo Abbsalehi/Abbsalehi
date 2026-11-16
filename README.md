@@ -48,8 +48,6 @@ I'm a researcher working at the intersection of **remote sensing**, **photogramm
 
 ## 📚 Selected Publications
 
-**100+ citations · h-index 5 · i10-index 5** ([Google Scholar](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en))
-
 | Year | Paper | Venue |
 |---|---|---|
 | 2026 | **[OccluFree: Occlusion-Aware Restoration for Amodal Building Windows and Doors Segmentation](https://doi.org/10.1109/JSTARS.2026.3724744)** <br> A. Salehitangrizi, S. Jabari, Y. Zhang | IEEE JSTARS |
