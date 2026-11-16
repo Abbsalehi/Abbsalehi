@@ -53,10 +53,10 @@ I'm a researcher working at the intersection of **remote sensing**, **photogramm
 | Year | Paper | Venue |
 |---|---|---|
 | 2026 | **OccluFree: Occlusion-Aware Restoration for Amodal Building Windows and Doors Segmentation** <br> A. Salehitangrizi, S. Jabari, Y. Zhang | IEEE JSTARS |
-| 2025 | **Enhancing Cross-Modal Camera Image and LiDAR Data Registration Using Feature-Based Matching** <br> J. Leahy, S. Jabari, D. Lichti, A. Salehitangrizi | Remote Sensing |
-| 2024 | **3D Modeling of Façade Elements Using Multi-View Images from Mobile Scanning Systems** <br> A. Salehitangrizi, S. Jabari, M. Sheng, Y. Zhang | Canadian Journal of Remote Sensing |
-| 2022 | **Marine Habitat Mapping Using Bathymetric LiDAR Data: A Case Study from Bonne Bay, Newfoundland** <br> M. Amani, C. Macdonald, A. Salehi, S. Mahdavi, M. Gullage | Water |
-| 2017 | **Building Roof Reconstruction Based on Residue Anomaly Analysis and Shape Descriptors from LiDAR and Optical Data** <br> A. Salehi, A. Mohammadzadeh | Photogrammetric Engineering & Remote Sensing |
+| 2025 | **[Enhancing Cross-Modal Camera Image and LiDAR Data Registration Using Feature-Based Matching](https://www.mdpi.com/2072-4292/17/3/357)** <br> J. Leahy, S. Jabari, D. Lichti, A. Salehitangrizi | Remote Sensing |
+| 2024 | **[3D Modeling of Façade Elements Using Multi-View Images from Mobile Scanning Systems](https://doi.org/10.1080/07038992.2024.2309895)** <br> A. Salehitangrizi, S. Jabari, M. Sheng, Y. Zhang | Canadian Journal of Remote Sensing |
+| 2022 | **[Marine Habitat Mapping Using Bathymetric LiDAR Data: A Case Study from Bonne Bay, Newfoundland](https://www.mdpi.com/2073-4441/14/23/3809)** <br> M. Amani, C. Macdonald, A. Salehi, S. Mahdavi, M. Gullage | Water |
+| 2017 | **[Building Roof Reconstruction Based on Residue Anomaly Analysis and Shape Descriptors from LiDAR and Optical Data](https://doi.org/10.14358/PERS.83.4.281)** <br> A. Salehi, A. Mohammadzadeh | Photogrammetric Engineering & Remote Sensing |
 
 See the [full list on Google Scholar](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en).
 
