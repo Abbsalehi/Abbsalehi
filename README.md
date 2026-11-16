@@ -58,13 +58,6 @@ I'm a researcher working at the intersection of **remote sensing**, **photogramm
 
 See the [full list on Google Scholar](https://scholar.google.com/citations?user=xg85-BEAAAAJ&hl=en).
 
-## 🌱 Currently Exploring
-
-- Advanced 3D computer vision
-- Deep learning for large geospatial datasets
-- Multi-modal data fusion
-- Robotics and autonomous driving
-
 <!--
 ## 🤝 Open to Collaborate
 
